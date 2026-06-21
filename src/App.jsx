@@ -317,7 +317,7 @@ export default function App() {
           <div>
             <p style={{ fontSize: 12, color: '#6b7280', marginBottom: 4 }}>Built by</p>
             <p style={{ fontWeight: 600 }}>Uttam Gupta</p>
-            <p style={{ fontSize: 13, color: '#6b7280' }}>uttam@example.com</p>
+            <p style={{ fontSize: 13, color: '#6b7280' }}>uttamgupta628@gmail.com</p>
           </div>
           <div>
             <p style={{ fontSize: 12, color: '#6b7280', marginBottom: 4 }}>About this tool</p>
